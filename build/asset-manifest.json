@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/~malinac/static/css/main.7f65c8d4.chunk.css",
+    "main.js": "/~malinac/static/js/main.fea95cf3.chunk.js",
+    "main.js.map": "/~malinac/static/js/main.fea95cf3.chunk.js.map",
+    "runtime-main.js": "/~malinac/static/js/runtime-main.e011af26.js",
+    "runtime-main.js.map": "/~malinac/static/js/runtime-main.e011af26.js.map",
+    "static/js/2.bb7dfd9e.chunk.js": "/~malinac/static/js/2.bb7dfd9e.chunk.js",
+    "static/js/2.bb7dfd9e.chunk.js.map": "/~malinac/static/js/2.bb7dfd9e.chunk.js.map",
+    "index.html": "/~malinac/index.html",
+    "precache-manifest.2a625e2791727fcd43b4c6132c6463fc.js": "/~malinac/precache-manifest.2a625e2791727fcd43b4c6132c6463fc.js",
+    "service-worker.js": "/~malinac/service-worker.js",
+    "static/css/main.7f65c8d4.chunk.css.map": "/~malinac/static/css/main.7f65c8d4.chunk.css.map",
+    "static/js/2.bb7dfd9e.chunk.js.LICENSE.txt": "/~malinac/static/js/2.bb7dfd9e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e011af26.js",
+    "static/js/2.bb7dfd9e.chunk.js",
+    "static/css/main.7f65c8d4.chunk.css",
+    "static/js/main.fea95cf3.chunk.js"
+  ]
+}
